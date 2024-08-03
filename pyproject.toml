@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "k2drive"
+version = "1.0.0"
+description = "A self-driving car project"
+readme = "README.md"
+dependencies = []
+requires-python = ">=3.8"
+authors = [
+  {name = "Miroslaw Steblik", email = "miroslawsteblik@gmail.com"},
+]
+
+[project.urls]
+"Homepage" = "https://github.com/miroslaw-steblik/K2Drive"
