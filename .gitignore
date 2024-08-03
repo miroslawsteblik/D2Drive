@@ -1,2 +1,6 @@
 # To ignore all folders that start with a dot (.)
 .*/  
+
+# Ignore egg-info directories
+*.egg-info/
+
